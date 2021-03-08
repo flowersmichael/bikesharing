@@ -11,44 +11,45 @@ We will conduct our research using Tableau, and build a business proposal using 
 ## Results
 We used data from August 2019, and discovered many interesting patterns about daily and weekly bikeshare use. Here are several examples.
 
-![Total Rides, and Gender and User Breakdown](https://github.com/flowersmichael/bikesharing/blob/main/Total%20Rides%2C%20Gender%20and%20User%20Breakdown.png)
+
+![Total Rides, and Gender and User Breakdown](https://github.com/flowersmichael/bikesharing/blob/main/Resources/Total%20Rides%2C%20Gender%20and%20User%20Breakdown.png)
 
 In August of 2019, people used Citi bikes in New York City for over 2.3 million trips. A little over 80% of those rides were subcriber rides. Roughly 70% of the rides were by men.
 
 
-![Top Starting Locations](https://github.com/flowersmichael/bikesharing/blob/main/Top%20Starting%20Locations.png)
+![Top Starting Locations](https://github.com/flowersmichael/bikesharing/blob/main/Resources/Top%20Starting%20Locations.png)
 
 The map below demonstrates that many of the most popular ride start locations are clustered around Midtown Manhattan.
 
 
-![August Peak Hours](https://github.com/flowersmichael/bikesharing/blob/main/August%20Peak%20Hours.png)
+![August Peak Hours](https://github.com/flowersmichael/bikesharing/blob/main/Resources/August%20Peak%20Hours.png)
 
 The morning commute 8 o'clock hour, and the evening commute 5-7pm hours are the peak ridership hours.
 
 It's also noteworthy that four of the top five peak usage hours are the evening hours between 4-8pm. This demonstrates that Citi bikes are a more popular commute option in the evening compared to the morning.
 
 
-![Checkout Times by User and Gender](https://github.com/flowersmichael/bikesharing/blob/main/Checkout%20Times%20by%20User%20and%20Gender.png)
+![Checkout Times by User and Gender](https://github.com/flowersmichael/bikesharing/blob/main/Resources/Checkout%20Times%20by%20User%20and%20Gender.png)
 
 The great majority of rides last less than 20 minutes, with 5 minutes being the most popular duration. Nearly all rides are under one hour long.
 
 Males and females have similar ride duration profiles, with rides by females tending to last a little longer.
 
 
-![Trips by Weekday per Hour](https://github.com/flowersmichael/bikesharing/blob/main/Trips%20by%20Weekday%20per%20Hour.png)
+![Trips by Weekday per Hour](https://github.com/flowersmichael/bikesharing/blob/main/Resources/Trips%20by%20Weekday%20per%20Hour.png)
 
 The most popular times during the week for bike dropoffs at the end of rides are the morning commute (in particular between 8-9am) and the evening commute (between 5-7pm). Thursday in particular looks like a popular day for commute rides. There's a noteworthy drop in ridershipe during the Wednesday evening commute that's worth investigating.
 
 On weekends, the most popular ride times are from late morning into the evening.
 
 
-![Trips by Gender (Weekday per Hour)](https://github.com/flowersmichael/bikesharing/blob/main/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
+![Trips by Gender (Weekday per Hour)](https://github.com/flowersmichael/bikesharing/blob/main/Resources/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
 
 Looking at popular ride times by gender, females and males have very similar profiles.
 
 For rides of unknown gender, the ride time profile is different. Their most popular ride times are midday on the weekends, with less commute traffic. This might suggest that these riders are often tourists or other customers who don't want to take any extra time completing their profile with gender information.
 
-![Trips by Gender by Weekday](https://github.com/flowersmichael/bikesharing/blob/main/User%20Trips%20by%20Gender%20by%20Weekday.png)
+![Trips by Gender by Weekday](https://github.com/flowersmichael/bikesharing/blob/main/Resources/User%20Trips%20by%20Gender%20by%20Weekday.png)
 
 Finally, we break down daily use trends between pay-per-use customers versus subscribers.
 
