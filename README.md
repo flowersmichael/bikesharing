@@ -6,6 +6,8 @@ While Des Moines and New York City are very different places, we're excited to h
 
 We will conduct our research using Tableau, and build a business proposal using Tableau's story feature.
 
+[link to dashboard](https://public.tableau.com/profile/mike.flowers#!/vizhome/Bikesharing_Challenge_16150482631120/Story1?publish=yes)
+
 ## Results
 We used data from August 2019, and discovered many interesting patterns about daily and weekly bikeshare use. Here are several examples.
 
